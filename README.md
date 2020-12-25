@@ -21,4 +21,4 @@ Here are some ideas to get you started:
   
   <a href="cynicsss.github.io"><img src="https://img.shields.io/badge/-concat%20me-yellowgreen"></a>
 </p>
-[![](https://img.shields.io/badge/-concat%20me-yellowgreen)](cynicsss.github.io)
+[!(https://img.shields.io/badge/-concat%20me-yellowgreen)](cynicsss.github.io)
