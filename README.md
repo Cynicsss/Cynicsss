@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cynicsss&show_icons=true&hide_title=true">&nbsp;&nbsp;&nbsp;&nbsp;<img height="165"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cynicsss&layout=compact&langs_count=10" />
   
-  <a href="cynicsss.github.io"><img src="https://img.shields.io/badge/-concat%20me-yellowgreen"></a>
+  <a href="https://cynicsss.github.io/"><img src="https://img.shields.io/badge/-concat%20me-yellowgreen"></a>
 </p>
-[!(https://img.shields.io/badge/-concat%20me-yellowgreen)](cynicsss.github.io)
