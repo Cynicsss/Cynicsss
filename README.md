@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-一只小菜鸡。
+不吃夜宵，从我做起。
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cynicsss&show_icons=true&hide_title=true">&nbsp;&nbsp;&nbsp;&nbsp;<img height="165"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cynicsss&layout=compact&langs_count=10" />
   
